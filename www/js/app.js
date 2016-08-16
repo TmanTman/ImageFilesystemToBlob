@@ -137,15 +137,15 @@ angular.module('starter', ['ionic', 'ngCordova'])
                  reader.readAsArrayBuffer(fileData);
                });
              }, function (error) {
-               error.message = $cordovaFileError[error.code];
+               error.message = errorCodes[error.code];
                q.reject(error);
              });
            }, function (err) {
-             err.message = $cordovaFileError[err.code];
+             err.message = errorCodes[err.code];
              q.reject(err);
            });
          } catch (e) {
-           e.message = $cordovaFileError[e.code];
+           e.message = errorCodes[e.code];
            q.reject(e);
          }
 
