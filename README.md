@@ -9,7 +9,7 @@ This was required in my case as I needed to included the Blob data in a custom f
 
 To get the project up and running:
 
-Clone: $ git clone https://github.com/TmanTman/ImageFilesystemToBlob.git
-Install dependencies: $ bower install
-Install ngCordova according to instructions and install the image-picker plugin
-Install the camera plugin: $ cordova plugin add https://github.com/TmanTman/cordova-plugin-wezka-nativecamera
+* Clone: $ git clone https://github.com/TmanTman/ImageFilesystemToBlob.git
+* Install dependencies: $ bower install
+* Install ngCordova according to instructions and install the image-picker plugin
+* Install the camera plugin: $ cordova plugin add https://github.com/TmanTman/cordova-plugin-wezka-nativecamera
