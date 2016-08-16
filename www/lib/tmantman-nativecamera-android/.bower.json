@@ -1,0 +1,30 @@
+{
+  "name": "tmantman-nativecamera-android",
+  "authors": [
+    "Tielman <tielman.mailbox@gmail.com>"
+  ],
+  "description": "",
+  "main": "scCameraDirective.directive.js",
+  "moduleType": [],
+  "license": "private",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.1.4",
+  "_release": "0.1.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.4",
+    "commit": "c7e005cf69cc5008a651483ea73fc197df05edac"
+  },
+  "_source": "https://TmanTman@bitbucket.org/TmanTman/scryo-androidnativecamera.git",
+  "_target": "~0.1.4",
+  "_originalSource": "https://TmanTman@bitbucket.org/TmanTman/scryo-androidnativecamera.git",
+  "_direct": true
+}

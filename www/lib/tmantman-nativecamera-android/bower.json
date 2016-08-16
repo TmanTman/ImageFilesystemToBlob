@@ -1,0 +1,19 @@
+{
+  "name": "tmantman-nativecamera-android",
+  "authors": [
+    "Tielman <tielman.mailbox@gmail.com>"
+  ],
+  "description": "",
+  "main": "scCameraDirective.directive.js",
+  "moduleType": [],
+  "license": "private",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
